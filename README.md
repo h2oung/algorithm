@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Baekjoon-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Programmers-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-4F6DB8?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Baekjoon-C8922E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Programmers-3E9F82?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## ✦ Platforms
 
-`Baekjoon` · `Programmers`
+`C++` · `Baekjoon` · `Programmers`
 
 <br>
 
@@ -23,16 +23,6 @@
 `Implementation` · `BFS / DFS` · `Graph`  
 `Greedy` · `Dynamic Programming` · `Binary Search`  
 `Brute Force` · `Priority Queue` · `Two Pointer`
-
-<br>
-
-## ✦ Repository
-
-<pre>
-algorithm
-├── 백준
-└── 프로그래머스
-</pre>
 
 <br>
 
