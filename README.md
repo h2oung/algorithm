@@ -2,28 +2,23 @@
 
 <img src="./assets/algorithm-night-sky.png" width="100%"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/C++-4F6DB8?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Baekjoon-C8922E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programmers-3E9F82?style=flat-square&logoColor=white"/>
-
 </div>
 
 <br>
 
-## ✦ Platforms
+## ✦ Core Algorithms
 
-`C++` · `Baekjoon` · `Programmers`
-
-<br>
-
-## ✦ Topics
-
-`Implementation` · `BFS / DFS` · `Graph`  
-`Greedy` · `Dynamic Programming` · `Binary Search`  
-`Brute Force` · `Priority Queue` · `Two Pointer`
-
+<p>
+  <img src="https://img.shields.io/badge/Implementation-6675A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Simulation-8B72A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BFS%20%2F%20DFS-527DA3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graph-4F6F8F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backtracking-8C6C8F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Binary%20Search-517F8C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-6F6CA8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Greedy-568C7A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Priority%20Queue-8A7655?style=flat-square"/>
+</p>
 <br>
 
 <!-- RECENT_SOLVED_START -->
