@@ -1,19 +1,24 @@
 #include<string>
 #include <iostream>
+#include <stack>
 
 using namespace std;
 
 bool solution(string s)
 {
-    int count = 0;
+    bool answer = true;
+    stack<char> st;
     
-    for(char c: s){
+    for(char c : s){ 
         if(c=='('){
-            count++;
-        } else count --;
-        
-        if (count <0)
-            return false;
-    }
-   return count == 0;
+            st.push(c);
+        } else if(!st.empty() && st.top()=='('&& c==')'){
+            st.pop();
+        } else return false;
+    } 
+    
+    if(!st.empty()) answer=false;
+    else answer=true;
+    
+    return answer;
 }
