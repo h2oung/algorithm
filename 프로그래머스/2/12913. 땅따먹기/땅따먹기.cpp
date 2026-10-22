@@ -1,10 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+int result=0;
 int solution(vector<vector<int> > land)
 {
-    int result=0; 
-    
     vector<vector<int>> dp(land.size(), vector<int> (land[0].size(), 0));
     for(int p=0; p<land[0].size(); p++){
         dp[0][p]=land[0][p];
